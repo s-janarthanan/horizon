@@ -8,7 +8,7 @@ The main focus of this project is mathematical modelling of real world systems.
 ## Activities done towards my application to the club
 
 
-* [Basics of the S.I.R model]("sir/S.I.R modelling.pdf")
+* [Basics of the S.I.R model](<sir/S.I.R modelling.pdf>)
 
 * [The logistic map](logistic_map/Logistic_map.ipynb)
 
