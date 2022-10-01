@@ -8,7 +8,7 @@ The main focus of this project is mathematical modelling of real world systems.
 ## Activities done towards my application to the club
 
 
-* [Basics of the S-I-R model](sir/main.tex)
+* [Basics of the S-I-R model](sir/S.I.R modelling.pdf)
 
 * [The logistic map](logistic_map/Logistic_map.ipynb)
 
@@ -16,7 +16,7 @@ The main focus of this project is mathematical modelling of real world systems.
 
 * [Slope fields and differential equations](slope_fields/slope_fields.ipynb)
 
-* [An introduction to chaos theory](chaos/main.tex)
+* [An introduction to chaos theory](chaos/Introduction_to_Chaos.pdf)
 
 * [pdf application report](pm_application.pdf)
 
