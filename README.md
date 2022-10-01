@@ -23,9 +23,9 @@ The main focus of this project is mathematical modelling of real world systems.
 
 ### The following are part of the club activities:
 
-* [The Mandelbrot set](mandelbrot/mandelbrot.js)
+* [The Mandelbrot set](https://rawcdn.githack.com/s-janarthanan/horizon/5ccf18c4550b0c9f53e14b0e812ac970a5a07f5d/mandelbrot/index.html)
 
-* [Animation of the Langton's ant](langton/langton.js)
+* [Animation of the Langton's ant](https://rawcdn.githack.com/s-janarthanan/horizon/5ccf18c4550b0c9f53e14b0e812ac970a5a07f5d/langton/index.html)
 
 * [Numerical solution of the Prey-Predator/Lotka-Volterra model](prey_predator.ipynb)
 
